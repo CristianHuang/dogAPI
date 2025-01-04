@@ -1,2 +1,1 @@
-# dogAPI
-Use of Dog CEO API
+# Using Dog CEO API
